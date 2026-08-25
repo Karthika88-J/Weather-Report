@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JSD/tree/main/reactjs/myproject/static/css/main.e6c13ad2.css",
+    "main.js": "/JSD/tree/main/reactjs/myproject/static/js/main.d19923f1.js",
+    "index.html": "/JSD/tree/main/reactjs/myproject/index.html",
+    "main.e6c13ad2.css.map": "/JSD/tree/main/reactjs/myproject/static/css/main.e6c13ad2.css.map",
+    "main.d19923f1.js.map": "/JSD/tree/main/reactjs/myproject/static/js/main.d19923f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d19923f1.js"
+  ]
+}
